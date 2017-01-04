@@ -12,11 +12,11 @@ A aplicação conterá somente a interface. Todos os dados serão _mockados_, se
 Usarei Angular.js, algum pré-processador CSS ainda não definido, possivelmente SASS pois é o que eu tenho material bibliográfico para citar e D3 para gerar os gráficos.
 
 ## Telas
-*Login
-*Extrato das contas
-*Gráfico para visualizar os investimentos
-*Saldo das contas
-*Fatura dos cartões de crédito
+* Login
+* Extrato das contas
+* Gráfico para visualizar os investimentos
+* Saldo das contas
+* Fatura dos cartões de crédito
 
 ## Bibliografia
 Aqui entrarão os livros usados durante o desenvolvimento e pesquisa.
